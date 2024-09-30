@@ -34,4 +34,3 @@ async function run (){
 run()
 
 
-//"Name":"Elijah Yundt V","Credit_Card_Number":"5489916689619647","Issuer":"mastercard","Expiry_Date":"03/28","cvv":"361"
